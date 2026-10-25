@@ -1,0 +1,234 @@
+{
+  "institucion": "Universidad Nacional de San Antonio Abad del Cusco",
+  "facultad": "Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica",
+  "escuela": "Escuela Profesional de Ingeniería Informática y de Sistemas",
+  "semestre": "2026-II",
+  "estudiantes": [
+    {
+      "codigo": "221451",
+      "nombre": "RODRÍGUEZ-CCOYTO-JAIRO JASER",
+      "corto": "Jairo",
+      "iniciales": "JR",
+      "carrera": "INGENIERÍA INFORMÁTICA Y DE SISTEMAS",
+      "ciclo": "Semestre académico 2026-II",
+      "direccion": "3 DE MAYO 202",
+      "telefono": "949050422",
+      "email": "JAIROJASERODRIGUEZ@GMAIL.COM",
+      "password": "123"
+    },
+    {
+      "codigo": "220552",
+      "nombre": "QUISPE-CHECYA-JOAN GONZALO",
+      "corto": "Joan",
+      "iniciales": "JQ",
+      "carrera": "INGENIERÍA INFORMÁTICA Y DE SISTEMAS",
+      "ciclo": "Semestre académico 2026-II",
+      "direccion": "AV. TÚPAC AMARU S/N",
+      "telefono": "984123456",
+      "email": "JOAN.QUISPE@UNSAAC.EDU.PE",
+      "password": "123"
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "codigo": "IF616BIN",
+      "nombre": "DESARROLLO DE SOFTWARE II",
+      "docente": "Mtro. Ing. Yover Collantes Valer",
+      "creditos": 4,
+      "ciclo": "X Ciclo",
+      "horario": "Lun y Mié 16:00 - 18:00",
+      "aula": "Aula IN304 - Pabellón Informática",
+      "colorHex": "#7A1B28"
+    },
+    {
+      "id": 2,
+      "codigo": "IF710BIN",
+      "nombre": "SEMINARIO DE INVESTIGACIÓN II",
+      "docente": "Mgt. Harley Vera Olivera",
+      "creditos": 3,
+      "ciclo": "X Ciclo",
+      "horario": "Lun 16:00 - 18:00, Mié 16:00 - 18:00",
+      "aula": "IN305 / IN202 - Pabellón Informática",
+      "colorHex": "#9A7410"
+    },
+    {
+      "id": 3,
+      "codigo": "IF483AIN",
+      "nombre": "FORMULACIÓN DE PROYECTOS TI",
+      "docente": "Dr. Emilio Palomino Olivera",
+      "creditos": 3,
+      "ciclo": "X Ciclo",
+      "horario": "Mar y Jue 09:00 - 11:00",
+      "aula": "Aula IN107 - Pabellón Informática",
+      "colorHex": "#1F2A44"
+    },
+    {
+      "id": 4,
+      "codigo": "IF652AIN",
+      "nombre": "APRENDIZAJE AUTOMÁTICO",
+      "docente": "Dr. Robert Wilbert Alzamora Paredes",
+      "creditos": 4,
+      "ciclo": "X Ciclo",
+      "horario": "Vie 14:00 - 18:00",
+      "aula": "Lab Inteligencia Artificial IN305",
+      "colorHex": "#1E6F5C"
+    },
+    {
+      "id": 5,
+      "codigo": "IF482AIN",
+      "nombre": "PLANEAMIENTO Y DIRECCIÓN ESTRATÉGICA DE TI",
+      "docente": "Dr. Javier Arturo Rozas Huacho",
+      "creditos": 3,
+      "ciclo": "X Ciclo",
+      "horario": "Lun y Mié 11:00 - 13:00",
+      "aula": "Auditorio EPIIS IN202",
+      "colorHex": "#5C1220"
+    },
+    {
+      "id": 6,
+      "codigo": "IF720AIN",
+      "nombre": "SEGURIDAD DE LA INFORMACIÓN Y AUDITORÍA DE TI",
+      "docente": "Dr. Lauro Enciso Rodas",
+      "creditos": 4,
+      "ciclo": "X Ciclo",
+      "horario": "Mar y Jue 11:00 - 13:00",
+      "aula": "Lab Redes y Ciberseguridad IN205",
+      "colorHex": "#2B5C8A"
+    },
+    {
+      "id": 7,
+      "codigo": "IF721AIN",
+      "nombre": "SISTEMAS DISTRIBUIDOS Y CLOUD COMPUTING",
+      "docente": "Mgt. Willian Zamalloa Paro",
+      "creditos": 3,
+      "ciclo": "X Ciclo",
+      "horario": "Lun y Mié 14:00 - 16:00",
+      "aula": "Lab Cómputo Distribuido IN302",
+      "colorHex": "#6A1B9A"
+    },
+    {
+      "id": 8,
+      "codigo": "IF653AIN",
+      "nombre": "INTELIGENCIA DE NEGOCIOS Y MINERÍA DE DATOS",
+      "docente": "Mgt. Julio Vladimir Quispe Sota",
+      "creditos": 3,
+      "ciclo": "X Ciclo",
+      "horario": "Mar y Jue 16:00 - 18:00, Vie 16:00 - 17:00",
+      "aula": "Lab 01 IN303 - Pabellón Informática",
+      "colorHex": "#E65100"
+    }
+  ],
+  "tareas": [
+    {
+      "id": 1,
+      "cursoId": 1,
+      "titulo": "Entregable E1: Arquitectura de Software y Modelado C4",
+      "descripcion": "Informe técnico ICACIT y modelo de dominio para el Trabajo Integrador.",
+      "diasRelativos": 2,
+      "hora": 23,
+      "prioridad": "Alta",
+      "completada": false,
+      "horasEstimadas": 8
+    },
+    {
+      "id": 2,
+      "cursoId": 1,
+      "titulo": "Implementación de CRUD y Persistencia Local Offline",
+      "descripcion": "Gestión de asignaturas y tareas con almacenamiento en formato JSON y SharedPreferences.",
+      "diasRelativos": 5,
+      "hora": 20,
+      "prioridad": "Alta",
+      "completada": false,
+      "horasEstimadas": 6
+    },
+    {
+      "id": 3,
+      "cursoId": 2,
+      "titulo": "Avance de Tesis: Capítulo III - Metodología Experimental",
+      "descripcion": "Diseño experimental, variables dependientes e independientes para validación de hipótesis.",
+      "diasRelativos": 4,
+      "hora": 18,
+      "prioridad": "Alta",
+      "completada": false,
+      "horasEstimadas": 10
+    },
+    {
+      "id": 4,
+      "cursoId": 3,
+      "titulo": "Estudio de Factibilidad Técnica y Económica (VAN / TIR)",
+      "descripcion": "Flujo de caja proyectado a 3 años y cálculo de rentabilidad para proyecto de TI.",
+      "diasRelativos": 7,
+      "hora": 22,
+      "prioridad": "Media",
+      "completada": false,
+      "horasEstimadas": 5
+    },
+    {
+      "id": 5,
+      "cursoId": 4,
+      "titulo": "Pipeline de Clasificación y Matriz de Confusión",
+      "descripcion": "Entrenamiento de modelos con scikit-learn y optimización de hiperparámetros.",
+      "diasRelativos": 3,
+      "hora": 19,
+      "prioridad": "Alta",
+      "completada": false,
+      "horasEstimadas": 6
+    },
+    {
+      "id": 6,
+      "cursoId": 5,
+      "titulo": "Alineamiento Estratégico y Matriz de Riesgos COBIT",
+      "descripcion": "Evaluación de madurez de procesos TI y mapa de calor de vulnerabilidades operacionales.",
+      "diasRelativos": 9,
+      "hora": 21,
+      "prioridad": "Media",
+      "completada": false,
+      "horasEstimadas": 4
+    },
+    {
+      "id": 7,
+      "cursoId": 6,
+      "titulo": "Auditoría de Seguridad y Test de Intrusión (Pentesting)",
+      "descripcion": "Reporte de escaneo de vulnerabilidades con estándares OWASP Top 10.",
+      "diasRelativos": 11,
+      "hora": 23,
+      "prioridad": "Alta",
+      "completada": false,
+      "horasEstimadas": 7
+    },
+    {
+      "id": 8,
+      "cursoId": 7,
+      "titulo": "Despliegue de Microservicios en Kubernetes",
+      "descripcion": "Cluster de contenedores Docker con balanceo de carga y service mesh.",
+      "diasRelativos": 6,
+      "hora": 17,
+      "prioridad": "Media",
+      "completada": false,
+      "horasEstimadas": 5
+    },
+    {
+      "id": 9,
+      "cursoId": 1,
+      "titulo": "Configuración del entorno Flutter y Web Server",
+      "descripcion": "Instalación de SDK y verificación de dependencias institucionales.",
+      "diasRelativos": -3,
+      "hora": 12,
+      "prioridad": "Alta",
+      "completada": true,
+      "horasEstimadas": 4
+    },
+    {
+      "id": 10,
+      "cursoId": 2,
+      "titulo": "Revisión Sistemática de Literatura (SLR en Scopus/IEEE)",
+      "descripcion": "Sistematización de 20 artículos indexados de alto impacto para marco teórico.",
+      "diasRelativos": -1,
+      "hora": 21,
+      "prioridad": "Baja",
+      "completada": true,
+      "horasEstimadas": 8
+    }
+  ]
+}
